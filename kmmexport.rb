@@ -39,7 +39,7 @@ class KMMExport
       macros = macro_group["Macros"]
       group  = macro_group.delete_if { |k,v| k == "Macros" }
       macros.each do |macro|
-        next unless macro["Name"] # TODO notify
+        macro["Name"] ||= macro["UID"]
         group["Macros"] = [macro]
         create_kmmacros_file(group, macro)
       end
