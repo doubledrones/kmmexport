@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Activate</key>
+		<string>Normal</string>
+		<key>AddToMacroPalette</key>
+		<false/>
+		<key>AddToStatusMenu</key>
+		<false/>
+		<key>IsActive</key>
+		<true/>
+		<key>IsBrowserContainerOpen</key>
+		<true/>
+		<key>KeyCode</key>
+		<integer>32767</integer>
+		<key>Macros</key>
+		<array>
+			<dict>
+				<key>Actions</key>
+				<array>
+					<dict>
+						<key>File</key>
+						<data>
+						AAAAAAFSAAIAAQtDYWx2YWRvcyBIRAAAAAAAAAAAAAAAAAAAAADHY91gSCsAAAASvN0M
+						dVRvcnJlbnQuYXBwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+						AAAAAAAAAAAAAAAAAP1rPMUjUq4AAAAAAAAAAP////8AAAkgAAAAAAAAAAAAAAAAAAAA
+						DEFwcGxpY2F0aW9ucwAQAAgAAMdjz1AAAAARAAgAAMUjNo4AAAABAAQAErzdAAIAJUNh
+						bHZhZG9zIEhEOkFwcGxpY2F0aW9uczp1VG9ycmVudC5hcHAAAA4AGgAMAHUAVABvAHIA
+						cgBlAG4AdAAuAGEAcABwAA8AGAALAEMAYQBsAHYAYQBkAG8AcwAgAEgARAASABlBcHBs
+						aWNhdGlvbnMvdVRvcnJlbnQuYXBwAAATAAEvAP//AAA=
+						</data>
+						<key>IsActive</key>
+						<true/>
+						<key>IsDisclosed</key>
+						<true/>
+						<key>MacroActionType</key>
+						<string>Open1File</string>
+					</dict>
+				</array>
+				<key>IsActive</key>
+				<true/>
+				<key>Name</key>
+				<string>Open uTorrent</string>
+				<key>Triggers</key>
+				<array>
+					<dict>
+						<key>FireType</key>
+						<string>Pressed</string>
+						<key>KeyCode</key>
+						<integer>32</integer>
+						<key>MacroTriggerType</key>
+						<string>HotKey</string>
+						<key>Modifiers</key>
+						<integer>6400</integer>
+						<key>TriggerRepeat</key>
+						<false/>
+					</dict>
+				</array>
+				<key>UID</key>
+				<string>5DDE9A70-B599-45EA-9A07-FF20A09EF2AE</string>
+			</dict>
+		</array>
+		<key>Modifiers</key>
+		<integer>0</integer>
+		<key>Name</key>
+		<string>Application Switch Group</string>
+		<key>Targeting</key>
+		<dict>
+			<key>Targeting</key>
+			<string>All</string>
+			<key>TargetingApps</key>
+			<array/>
+		</dict>
+		<key>UID</key>
+		<string>ECD9D8DE-2180-49FD-AB15-82EB3851C742</string>
+	</dict>
+</array>
+</plist>

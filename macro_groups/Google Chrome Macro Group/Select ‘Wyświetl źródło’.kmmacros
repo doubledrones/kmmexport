@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Activate</key>
+		<string>Normal</string>
+		<key>AddToMacroPalette</key>
+		<false/>
+		<key>AddToStatusMenu</key>
+		<false/>
+		<key>IsActive</key>
+		<true/>
+		<key>IsBrowserContainerOpen</key>
+		<true/>
+		<key>KeyCode</key>
+		<integer>32767</integer>
+		<key>Macros</key>
+		<array>
+			<dict>
+				<key>Actions</key>
+				<array>
+					<dict>
+						<key>IsActive</key>
+						<true/>
+						<key>IsDisclosed</key>
+						<true/>
+						<key>MacroActionType</key>
+						<string>SelectMenuItem</string>
+						<key>Menu</key>
+						<array>
+							<string>Widok</string>
+							<string>Dla programistów</string>
+							<string>Wyświetl źródło</string>
+						</array>
+						<key>StopOnFailure</key>
+						<true/>
+						<key>TargetApplication</key>
+						<dict>
+							<key>Alias</key>
+							<data>
+							AAAAAAFkAAIAAQtDYWx2YWRvcyBIRAAAAAAAAAAAAAAAAAAAAADHY91gSCsAAAASvN0R
+							R29vZ2xlIENocm9tZS5hcHAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAU1eXsidMGUAAAAAAAAAAP////8AAAkgAAAAAAAAAAAAAAAAAAAA
+							DEFwcGxpY2F0aW9ucwAQAAgAAMdjz1AAAAARAAgAAMidFEUAAAABAAQAErzdAAIAKkNh
+							bHZhZG9zIEhEOkFwcGxpY2F0aW9uczpHb29nbGUgQ2hyb21lLmFwcAAOACQAEQBHAG8A
+							bwBnAGwAZQAgAEMAaAByAG8AbQBlAC4AYQBwAHAADwAYAAsAQwBhAGwAdgBhAGQAbwBz
+							ACAASABEABIAHkFwcGxpY2F0aW9ucy9Hb29nbGUgQ2hyb21lLmFwcAATAAEvAP//AAA=
+							</data>
+							<key>BundleIdentifier</key>
+							<string>com.google.Chrome</string>
+							<key>Creator</key>
+							<integer>1919511898</integer>
+							<key>FileType</key>
+							<integer>1095782476</integer>
+							<key>Name</key>
+							<string>Google Chrome.app</string>
+						</dict>
+						<key>TargetingType</key>
+						<string>Specific</string>
+					</dict>
+				</array>
+				<key>IsActive</key>
+				<true/>
+				<key>Name</key>
+				<string>Select ‘Wyświetl źródło’</string>
+				<key>Triggers</key>
+				<array>
+					<dict>
+						<key>FireType</key>
+						<string>Pressed</string>
+						<key>KeyCode</key>
+						<integer>32</integer>
+						<key>MacroTriggerType</key>
+						<string>HotKey</string>
+						<key>Modifiers</key>
+						<integer>256</integer>
+						<key>TriggerRepeat</key>
+						<false/>
+					</dict>
+				</array>
+				<key>UID</key>
+				<string>F3028E2E-D90F-4CE7-87CB-85E1DA0E2BCC</string>
+			</dict>
+		</array>
+		<key>Modifiers</key>
+		<integer>0</integer>
+		<key>Name</key>
+		<string>Google Chrome Macro Group</string>
+		<key>Targeting</key>
+		<dict>
+			<key>Targeting</key>
+			<string>Included</string>
+			<key>TargetingApps</key>
+			<array>
+				<dict>
+					<key>Alias</key>
+					<data>
+					AAAAAAFkAAIAAQtDYWx2YWRvcyBIRAAAAAAAAAAAAAAAAAAAAADHY91gSCsAAAASvN0R
+					R29vZ2xlIENocm9tZS5hcHAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+					AAAAAAAAAAAAAAAAAU1eXsidMGUAAAAAAAAAAP////8AAAkgAAAAAAAAAAAAAAAAAAAA
+					DEFwcGxpY2F0aW9ucwAQAAgAAMdjz1AAAAARAAgAAMidFEUAAAABAAQAErzdAAIAKkNh
+					bHZhZG9zIEhEOkFwcGxpY2F0aW9uczpHb29nbGUgQ2hyb21lLmFwcAAOACQAEQBHAG8A
+					bwBnAGwAZQAgAEMAaAByAG8AbQBlAC4AYQBwAHAADwAYAAsAQwBhAGwAdgBhAGQAbwBz
+					ACAASABEABIAHkFwcGxpY2F0aW9ucy9Hb29nbGUgQ2hyb21lLmFwcAATAAEvAP//AAA=
+					</data>
+					<key>BundleIdentifier</key>
+					<string>com.google.Chrome</string>
+					<key>Creator</key>
+					<integer>1919511898</integer>
+					<key>FileType</key>
+					<integer>1095782476</integer>
+					<key>Name</key>
+					<string>Google Chrome.app</string>
+				</dict>
+			</array>
+		</dict>
+		<key>UID</key>
+		<string>8BC1CD14-7CC5-4E6E-B086-A992F3B1E427</string>
+	</dict>
+</array>
+</plist>

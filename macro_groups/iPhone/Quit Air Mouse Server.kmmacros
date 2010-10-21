@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Activate</key>
+		<string>Normal</string>
+		<key>AddToMacroPalette</key>
+		<false/>
+		<key>AddToStatusMenu</key>
+		<false/>
+		<key>IsActive</key>
+		<true/>
+		<key>IsBrowserContainerOpen</key>
+		<true/>
+		<key>KeyCode</key>
+		<integer>32767</integer>
+		<key>Macros</key>
+		<array>
+			<dict>
+				<key>Actions</key>
+				<array>
+					<dict>
+						<key>Application</key>
+						<dict>
+							<key>Alias</key>
+							<data>
+							AAAAAAFyAAIAAQtDYWx2YWRvcyBIRAAAAAAAAAAAAAAAAAAAAADHY91gSCsAAAASvN0U
+							QWlyIE1vdXNlIFNlcnZlci5hcHAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAUhqh8hNm/IAAAAAAAAAAP////8AAAkgAAAAAAAAAAAAAAAAAAAA
+							DEFwcGxpY2F0aW9ucwAQAAgAAMdjz1AAAAARAAgAAMhNf9IAAAABAAQAErzdAAIALUNh
+							bHZhZG9zIEhEOkFwcGxpY2F0aW9uczpBaXIgTW91c2UgU2VydmVyLmFwcAAADgAqABQA
+							QQBpAHIAIABNAG8AdQBzAGUAIABTAGUAcgB2AGUAcgAuAGEAcABwAA8AGAALAEMAYQBs
+							AHYAYQBkAG8AcwAgAEgARAASACFBcHBsaWNhdGlvbnMvQWlyIE1vdXNlIFNlcnZlci5h
+							cHAAABMAAS8A//8AAA==
+							</data>
+							<key>BundleIdentifier</key>
+							<string>com.yourcompany.Air_Mouse_Server</string>
+							<key>Creator</key>
+							<integer>1061109567</integer>
+							<key>FileType</key>
+							<integer>1095782476</integer>
+							<key>Name</key>
+							<string>Air Mouse Server.app</string>
+						</dict>
+						<key>IsActive</key>
+						<true/>
+						<key>IsDisclosed</key>
+						<true/>
+						<key>MacroActionType</key>
+						<string>QuitSpecificApp</string>
+					</dict>
+				</array>
+				<key>IsActive</key>
+				<true/>
+				<key>Name</key>
+				<string>Quit Air Mouse Server</string>
+				<key>Triggers</key>
+				<array/>
+				<key>UID</key>
+				<string>618DDD45-0433-4376-AF90-6B2D86A38D29</string>
+			</dict>
+		</array>
+		<key>Modifiers</key>
+		<integer>0</integer>
+		<key>Name</key>
+		<string>iPhone</string>
+		<key>Targeting</key>
+		<dict>
+			<key>Targeting</key>
+			<string>All</string>
+			<key>TargetingApps</key>
+			<array/>
+		</dict>
+		<key>UID</key>
+		<string>83EB0667-BA37-47C7-8C52-9F1B21AE1B67</string>
+	</dict>
+</array>
+</plist>
