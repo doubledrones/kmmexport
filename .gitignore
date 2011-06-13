@@ -1,5 +1,4 @@
 *.swp
 .DS_Store
 .bundle/
-Gemfile.lock
 Keyboard Maestro Macros.plist
